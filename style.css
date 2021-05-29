@@ -1,0 +1,14 @@
+body{
+    font-family: 'Limelight', cursive;
+    text-align: center;
+}
+
+#games{
+background-color: yellowgreen;
+}
+#apps{
+    background-color: mediumpurple;
+}
+#chatbot{
+background-color: rgb(49, 230, 205);
+}
